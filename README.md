@@ -1,3 +1,3 @@
 # demo
 
-intro for git
+intro for git!
